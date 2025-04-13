@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">tugas 4</string>
+    <string name="app_name">tugas</string>
+
+    <string name = "papeda">
+Papeda merupakan makanan berupa bubur sagu yang biasanya disajikan dengan mubara atau ikan tongkol yang dibumbui dengan kunyit. Selain dapat dinikmati dengan ikan bumbu kuning,
+papeda juga dapat dinikmati dengan sayur yang diolah dari daun melinjo muda.
+
+</string>
+
+    <string name = "rawon">
+Papeda merupakan makanan berupa bubur sagu yang biasanya disajikan dengan mubara atau ikan tongkol yang dibumbui dengan kunyit. Selain dapat dinikmati dengan ikan bumbu kuning,
+papeda juga dapat dinikmati dengan sayur yang diolah dari daun melinjo muda.
+
+</string>
+    <string name = "ayam_geprek">
+Papeda merupakan makanan berupa bubur sagu yang biasanya disajikan dengan mubara atau ikan tongkol yang dibumbui dengan kunyit. Selain dapat dinikmati dengan ikan bumbu kuning,
+papeda juga dapat dinikmati dengan sayur yang diolah dari daun melinjo muda.
+
+</string>
 </resources>
+

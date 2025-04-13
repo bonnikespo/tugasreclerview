@@ -20,7 +20,7 @@ textRegister.setOnClickListener{
                     val password = editTextTextPassword.text.toString()
 
                     if (username == "admin" && password == "1234") {
-                        val intent = Intent(this, halamanutama::class.java)
+                        val intent = Intent(this, halamantugas::class.java)
                         startActivity(intent)
                         finish() // Supaya tidak bisa kembali ke login dengan tombol back
                     } else {
